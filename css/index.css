@@ -4,11 +4,14 @@
 
 .main {
     float: right;
-    width: 70%;
-    margin: 10px 0 10px 0;
+    width: 80%;
 }
 .sidebar {
     float: left;
-    width: 30%;
+    width: 20%;
     margin: 10px 0 10px 0;
+}
+.main img {
+    width: 60%;
+    
 }
